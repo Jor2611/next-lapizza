@@ -36,7 +36,7 @@ LaPizza is a fullstack pizza ordering application built with Next.js. This app a
    Create a `.env` file at the root of the project. Add the following variables to connect to the PostgreSQL database and set up any other configuration (e.g., Prisma database URL):
 
    ```plaintext
-    POSTGRES_URL="postgres://postgres:asd123456@127.0.0.1:5432/la-pizza"
+    POSTGRES_URL="postgres://[DB_USERNAME]:[DB_PASSWORD]@[DB_HOST]:[DB_PORT]/[DB_NAME]"
     NEXT_PUBLIC_API_URL=/api
    ```
 
