@@ -27,7 +27,7 @@ LaPizza is a fullstack pizza ordering application built with Next.js. This app a
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/lapizza.git
+   git clone https://github.com/jo2611/next-lapizza.git
    cd lapizza
    ```
 
